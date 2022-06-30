@@ -28,6 +28,10 @@ Environments/Platforms
 
 ---
 
+📈 My GitHub Stats
+
+![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridul2899&hide=contribs&count_private=true&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul2899&theme=radical&hide=jupyter%20notebook&langs_count=6&layout=compact)
 
 <!--
 **mridul2899/mridul2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

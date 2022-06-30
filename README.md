@@ -6,9 +6,11 @@
 
 I am an Incoming Software Development Engineer at Amazon and have full stack development experience.  
 
-I graduated from IIT Kharagpur in 2022 with a B. Tech + M. Tech in Quality Engineering Design and Manufacturing (Industrial Electronics Vertical) with a Minor in Computer Science and Engineering, and a Micro-Specialization in Artificial Intelligence and its Applications. During my college years, I have interned at Amazon, Honeywell, Bluebeak.AI and flippy. 
+I graduated from IIT Kharagpur in 2022 with a B. Tech + M. Tech in Quality Engineering Design and Manufacturing (Industrial Electronics Vertical) with a Minor in Computer Science and Engineering, and a Micro-Specialization in Artificial Intelligence and its Applications. During my college years, I interned at Amazon, Honeywell, Bluebeak.AI and flippy to gain meaningful exposure to software development.   
 
 I am a blockchain and Web3 enthusiast and am looking for teammates to participate in exciting hackathons to BUIDL awesome products together. I previously participated in the Road To Web3 2022 Hackathon by ETHGlobal where our project [CryptoBaskets](https://showcase.ethglobal.com/roadtoweb3/cryptobaskets) won the Best DeFi Award from Polygon and The Most Innovative Solution Award from the Uniswap Grants Program.  
+
+Feel free to hit me up on any of the above mentioned socials. I will be looking forward to interacting with folks with similar interests.  
 
 ---
 

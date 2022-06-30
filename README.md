@@ -2,7 +2,7 @@
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/mridul2899?style=social) &nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/mridul2899?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/mridul2899?style=social)](https://github.com/mridul2899) &nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/mridul2899?style=social)](https://twitter.com/mridul2899)
 
 I am an Incoming Software Development Engineer at Amazon and have full stack development experience.  
 

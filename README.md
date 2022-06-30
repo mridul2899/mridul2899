@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Mridul Agarwal!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mridul Agarwal!
 
 <!--
 **mridul2899/mridul2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

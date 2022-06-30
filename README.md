@@ -2,7 +2,7 @@
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/mridul2899?style=social)](https://github.com/mridul2899) &nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/mridul2899?style=social)](https://twitter.com/mridul2899) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul2899/)
+[![GitHub followers](https://img.shields.io/github/followers/mridul2899?style=social)](https://github.com/mridul2899) &nbsp; [![Twitter Follow](https://img.shields.io/twitter/follow/mridul2899?style=social)](https://twitter.com/mridul2899) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul2899/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridul2899@gmail.com)  
 
 I am an Incoming Software Development Engineer at Amazon and have full stack development experience.  
 

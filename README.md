@@ -35,6 +35,12 @@ Environments/Platforms
 ![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridul2899&hide=contribs&count_private=true&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul2899&theme=radical&hide=jupyter%20notebook&langs_count=6&layout=compact)
 
+Thanks to [Anurag Hazra](https://github.com/anuraghazra) for [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) which automatically gathers stats and displays them beautifully.  
+
+---
+
+Credits to [Catalin Pit](https://www.youtube.com/watch?v=p5hf8i-OzlQ) for the tutorial for making a good README for the GitHub profile.  
+
 <!--
 **mridul2899/mridul2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

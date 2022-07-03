@@ -39,7 +39,7 @@ Thanks to [Anurag Hazra](https://github.com/anuraghazra) for [github-readme-stat
 
 ---
 
-Credits to [Catalin Pit](https://www.youtube.com/watch?v=p5hf8i-OzlQ) for the tutorial for making a good README for the GitHub profile.  
+Credits to [Catalin Pit](https://www.youtube.com/watch?v=p5hf8i-OzlQ) for the tutorial on making a good README for the GitHub profile.  
 
 <!--
 **mridul2899/mridul2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
